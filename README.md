@@ -27,6 +27,7 @@
      👨‍🔬 About Me :
    
    - 🔭 I’m currently working as a Full-stack Software Engineer ...
+   - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/precious-vwarho)
 <!--    - 🌱 I’m currently learning ... -->
 <!--    - 📫 How to reach me: 
   <a href="https://twitter.com/preciousvwarho">
