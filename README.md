@@ -26,13 +26,10 @@
 
   ### :man_scientist: About Me :
    
-   - 🔭 I’m currently working as a Full-stack Software Engineer ...
+   - 🔭 I’m currently working as a Full-stack Software Engineer
+   - ⚡  I'm open to research and collaborations.
    - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/precious-vwarho)
 <!--    - 🌱 I’m currently learning ... -->
-<!--    - 📫 How to reach me: 
-  <a href="https://twitter.com/preciousvwarho">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
   
   ---
 
